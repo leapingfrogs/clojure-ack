@@ -1,13 +1,13 @@
 # clack
 
-FIXME: write description
+This is my attempt to write a basic 'ack'-like took using clojure as a mechanism to learn clojure.
 
 ## Usage
 
-FIXME: write
+TODO
 
 ## License
 
-Copyright (C) 2012 FIXME
+Copyright (C) 2012 Ian Davies
 
 Distributed under the Eclipse Public License, the same as Clojure.
